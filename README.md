@@ -33,3 +33,15 @@ Lista de elementos<br>
 Titulo1 | Titulo2
 --------| -------
 Dato1.1 | Dato1.2
+
+```java
+public void toString(){
+
+}
+```
+
+- [ ] Opcion 1
+- [x] Opcion 2
+- [ ] Opcion 1
+ 
+
